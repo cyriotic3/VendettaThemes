@@ -39,7 +39,7 @@
             "#ff0000"
         ],
         "BACKGROUND_SECONDARY": [
-            "#2200ff"
+            "#101010"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#101010"
@@ -51,7 +51,7 @@
             "#a80820"
         ],
         "BACKGROUND_FLOATING": [
-            "#111317"
+            "#101010"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#16181d"
