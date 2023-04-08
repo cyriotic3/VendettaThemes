@@ -84,13 +84,13 @@
             "#a80820"
         ],
         "SCROLLBAR_THIN_TRACK": [
-            "transparent"
+            "0000ff"
         ],
         "SCROLLBAR_AUTO_THUMB": [
             "#a80820"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "transparent"
+            "ff00dd"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#878787"
