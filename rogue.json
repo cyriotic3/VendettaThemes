@@ -115,7 +115,7 @@
         "PRIMARY_500": "#101010",
         "PRIMARY_100": "#ffffff",
         "PRIMARY_200": "#2200ff",
-        "PRIMARY_300": "#0d0d0d",
+        "PRIMARY_300": "#ffffff",
         "PRIMARY_360": "#ff0000",
         "PRIMARY_400": "#ffffff",
         "PRIMARY_600": "#101010",
@@ -125,7 +125,7 @@
         "BRAND_260": "#a80820",
         "BRAND_500": "#a80820",
         "BRAND_900": "#ff0000",
-        "YELLOW_300": "#ff00dd",
+        "YELLOW_300": "#a80820",
         "GREEN_600": "#0000ff",
         "DANGER": "#ffff00",
         "RED_400": "#a80820"
