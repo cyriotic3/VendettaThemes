@@ -127,7 +127,7 @@
         "BRAND_900": "#ffff00",
         "YELLOW_300": "#a80820",
         "GREEN_600": "#ff00dd",
-        "DANGER": "#0000ff",
+        "DANGER": "#ffff00",
         "RED_400": "#a80820"
     },
     "spec": 2
