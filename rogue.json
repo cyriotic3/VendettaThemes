@@ -42,13 +42,13 @@
             "#2200ff"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#181b20"
+            "#101010"
         ],
         "BACKGROUND_TERTIARY": [
-            "#1a1d23"
+            "#0d0d0d"
         ],
         "BACKGROUND_ACCENT": [
-            "#272c35"
+            "#a80820"
         ],
         "BACKGROUND_FLOATING": [
             "#111317"
