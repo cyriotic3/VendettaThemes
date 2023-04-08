@@ -30,13 +30,13 @@
             "#a80820"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#a80820"
+            "#ffffff"
         ],
         "INTERACTIVE_MUTED": [
             "#878787"
         ],
         "BACKGROUND_PRIMARY": [
-            "#ff0000"
+            "#101010"
         ],
         "BACKGROUND_SECONDARY": [
             "#101010"
@@ -54,10 +54,10 @@
             "#101010"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#16181d"
+            "#101010"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#181b20"
+            "#101010"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#111317"
