@@ -60,25 +60,25 @@
             "#101010"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#111317"
+            "#101010"
         ],
         "BACKGROUND_MENTIONED": [
-            "#1d232f"
+            "#2200ff"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#2b303b"
+            "#a80820"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#2b303b"
+            "#101010"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#2b303b"
+            "#a80820"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#2b303b"
+            "#282828"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#2b303b"
+            "#0d0d0d"
         ],
         "SCROLLBAR_THIN_THUMB": [
             "#1a1d23"
