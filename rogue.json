@@ -81,34 +81,34 @@
             "#0d0d0d"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#1a1d23"
+            "#a80820"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "transparent"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#1a1d23"
+            "#a80820"
         ],
         "SCROLLBAR_AUTO_TRACK": [
             "transparent"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#1a1d23"
+            "#878787"
         ],
         "CHAT_BACKGROUND": [
-            "#16181D"
+            "#101010"
         ],
         "CHANNELS_DEFAULT": [
-            "#576175"
+            "#2200ff"
         ],
         "TEXT_LINK": [
-            "#00aff4"
+            "#a80820"
         ],
         "KEYBOARD": [
-            "#16181d"
+            "#101010"
         ],
         "CHANNEL_ICON": [
-            "#80848e"
+            "#ffffff"
         ]
     },
     "rawColors": {
