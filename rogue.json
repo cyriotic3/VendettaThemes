@@ -12,13 +12,13 @@
             "#ffffff"
         ],
         "HEADER_SECONDARY": [
-            "#f9f9f9"
+            "#9f9f9f"
         ],
         "TEXT_NORMAL": [
             "#ffffff"
         ],
         "TEXT_MUTED": [
-            "#f9f9f9"
+            "#9f9f9f"
         ],
         "TEXT_LINK": [
             "#a80820"
@@ -48,7 +48,7 @@
             "#0d0d0d"
         ],
         "BACKGROUND_ACCENT": [
-            "#0d0d0d"
+            "#282828"
         ],
         "BACKGROUND_FLOATING": [
             "#101010"
@@ -69,7 +69,7 @@
             "#2f0f14"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#0d0d0d"
+            "#282828"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#101010"
@@ -87,7 +87,7 @@
             "#101010"
         ],
         "CHANNELS_DEFAULT": [
-            "#f9f9f9"
+            "#9f9f9f"
         ],
         "TEXT_LINK": [
             "#a80820"
