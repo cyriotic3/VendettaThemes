@@ -113,10 +113,10 @@
         "BRAND_500": "#a80820",
         "BRAND_560": "#a80820",
         "WHITE_500": "#ffffff",
-        "YELLOW_300": "#ff0000",
-        "GREEN_600": "#0000ff",
+        "YELLOW_300": "#a80820",
+        "GREEN_360": "#0000ff",
         "DANGER": "#00ff00",
-        "RED_400": "#ffff00"
+        "RED_400": "#a80820"
     },
     "spec": 2
 }
