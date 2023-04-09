@@ -21,7 +21,7 @@
             "#444C5B"
         ],
         "INTERACTIVE_NORMAL": [
-            "#576175"
+            "#ffffff"
         ],
         "INTERACTIVE_HOVER": [
             "#8a94a8"
@@ -118,7 +118,7 @@
         "PRIMARY_600": "#16181d",
         "PRIMARY_630": "#16181d",
         "PRIMARY_700": "#16181d",
-        "PRIMARY_800": "#ffff00",
+        "PRIMARY_800": "#101010",
         "BRAND_260": "#8a94a8",
         "BRAND_500": "#8a94a8",
         "BRAND_900": "#576175",
