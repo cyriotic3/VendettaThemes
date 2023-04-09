@@ -20,17 +20,20 @@
         "TEXT_MUTED": [
             "#878787"
         ],
+        "TEXT_LINK": [
+            "#a80820"
+        ],
         "INTERACTIVE_NORMAL": [
             "#ffffff"
         ],
         "INTERACTIVE_HOVER": [
-            "#8a94a8"
+            "#0000ff"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#8a94a8"
+            "#ffffff"
         ],
         "INTERACTIVE_MUTED": [
-            "#2b303b"
+            "#ff00dd"
         ],
         "BACKGROUND_PRIMARY": [
             "#16181d"
