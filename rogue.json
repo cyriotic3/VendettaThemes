@@ -89,6 +89,9 @@
         "SCROLLBAR_AUTO_TRACK": [
             "transparent"
         ],
+        "SPOILER_HIDDEN_BACKGROUND": [
+            "ffff00"
+        ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#1a1d23"
         ],
