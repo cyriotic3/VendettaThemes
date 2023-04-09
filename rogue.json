@@ -77,8 +77,8 @@
         "SPOILER_REVEALED_BACKGROUND": [
             "0d0d0d"
         ],
-        "CHANNEL_TEXT_AREA_BACKGROUND": [
-            "#ff0000"
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#878787"
         ],
         "CHAT_BACKGROUND": [
             "#101010"
