@@ -12,13 +12,13 @@
             "#ffffff"
         ],
         "HEADER_SECONDARY": [
-            "#878787"
+            "#f9f9f9"
         ],
         "TEXT_NORMAL": [
             "#ffffff"
         ],
         "TEXT_MUTED": [
-            "#878787"
+            "#f9f9f9"
         ],
         "TEXT_LINK": [
             "#a80820"
@@ -87,7 +87,7 @@
             "#101010"
         ],
         "CHANNELS_DEFAULT": [
-            "#878787"
+            "#f9f9f9"
         ],
         "TEXT_LINK": [
             "#a80820"
