@@ -33,16 +33,16 @@
             "#0d0d0d"
         ],
         "BACKGROUND_PRIMARY": [
-            "#ff0000"
+            "#101010"
         ],
         "BACKGROUND_SECONDARY": [
-            "#0000ff"
+            "#101010"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#181b20"
+            "#ff0000"
         ],
         "BACKGROUND_TERTIARY": [
-            "#1a1d23"
+            "#0000ff"
         ],
         "BACKGROUND_ACCENT": [
             "#272c35"
@@ -90,7 +90,10 @@
             "transparent"
         ],
         "SPOILER_HIDDEN_BACKGROUND": [
-            "ffff00"
+            "878787"
+        ],
+        "SPOILER_REVEALED_BACKGROUND": [
+            "0d0d0d"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#1a1d23"
