@@ -33,7 +33,7 @@
             "#ffffff"
         ],
         "INTERACTIVE_MUTED": [
-            "#575757"
+            "#1a1a1a"
         ],
         "BACKGROUND_PRIMARY": [
             "#000000"
@@ -48,7 +48,7 @@
             "#000000"
         ],
         "BACKGROUND_ACCENT": [
-            "#999999"
+            "#7f7f7f"
         ],
         "BACKGROUND_FLOATING": [
             "#000000"
@@ -69,13 +69,13 @@
             "#220106"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#999999"
+            "#7f7f7f"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#000000"
         ],
         "SPOILER_HIDDEN_BACKGROUND": [
-            "#999999"
+            "#7f7f7f"
         ],
         "SPOILER_REVEALED_BACKGROUND": [
             "transparent"
