@@ -48,7 +48,7 @@
             "#000000"
         ],
         "BACKGROUND_ACCENT": [
-            "#ff0000"
+            "#999999"
         ],
         "BACKGROUND_FLOATING": [
             "#000000"
@@ -69,10 +69,16 @@
             "#220106"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#0000ff"
+            "#999999"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#000000"
+        ],
+        "MENTION_BACKGROUND": [
+            "#ff0000"
+        ],
+        "MENTION_FOREGROUND": [
+            "#0000ff"
         ],
         "SPOILER_HIDDEN_BACKGROUND": [
             "#999999"
