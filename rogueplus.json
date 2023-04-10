@@ -74,12 +74,6 @@
         "BACKGROUND_MODIFIER_ACCENT": [
             "#000000"
         ],
-        "MENTION_BACKGROUND": [
-            "#ff0000"
-        ],
-        "MENTION_FOREGROUND": [
-            "#0000ff"
-        ],
         "SPOILER_HIDDEN_BACKGROUND": [
             "#999999"
         ],
