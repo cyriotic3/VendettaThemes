@@ -81,7 +81,7 @@
             "transparent"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-            "#878787"
+            "#9f9f9f"
         ],
         "CHAT_BACKGROUND": [
             "#101010"
@@ -100,7 +100,7 @@
         "PRIMARY_100": "#ffffff",
         "PRIMARY_200": "#ffffff",
         "PRIMARY_300": "#ffffff",
-        "PRIMARY_360": "#878787",
+        "PRIMARY_360": "#9f9f9f",
         "PRIMARY_500": "#9f9f9f",
         "PRIMARY_600": "#101010",
         "PRIMARY_630": "#101010",
