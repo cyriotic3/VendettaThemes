@@ -62,8 +62,11 @@
         "BACKGROUND_NESTED_FLOATING": [
             "#000000"
         ],
+        "BACKGROUND_MENTIONED": [
+            "#a8082033"
+        ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#220106"
+            "#a8082033"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "#1a1a1a"
