@@ -123,7 +123,7 @@
     "background": {
         "blur": 0,
         "url": "https://raw.githubusercontent.com/cyriotic3/Rogue/main/bg.png",
-        "alpha": 0
+        "alpha": 1
     },
     "spec": 2
 }
