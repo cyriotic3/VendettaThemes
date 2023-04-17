@@ -122,7 +122,9 @@
         "RED_400": "#a80820"
     },
     "background": {
-        "url": "https://raw.githubusercontent.com/cyriotic3/Rogue/main/bg.png"
+        "blur": 0,
+        "url": "https://raw.githubusercontent.com/cyriotic3/Rogue/main/bg.png",
+        "alpha": 0
     },
     "spec": 2
 }
