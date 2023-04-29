@@ -9,91 +9,91 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#ffffff"
+            false, false, "#ffffff"
         ],
         "HEADER_SECONDARY": [
-            "#999999"
+            false, false, "#999999"
         ],
         "TEXT_NORMAL": [
-            "#ffffff"
+            false, false, "#ffffff"
         ],
         "TEXT_MUTED": [
-            "#999999"
+            false, false, "#999999"
         ],
         "TEXT_LINK": [
-            "#a80820"
+            false, false, "#a80820"
         ],
         "TEXT_DANGER": [
-            "#a80820"
+            false, false, "#a80820"
         ],
         "INTERACTIVE_NORMAL": [
-            "#ffffff"
+            false, false, "#ffffff"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#ffffff"
+            false, false, "#ffffff"
         ],
         "INTERACTIVE_MUTED": [
-            "#4c4c4c"
+            false, false, "#4c4c4c"
         ],
         "BACKGROUND_PRIMARY": [
-            "#000000"
+            false, false, "#000000"
         ],
         "BACKGROUND_SECONDARY": [
-            "#000000"
+            false, false, "#000000"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#000000"
+            false, false, "#000000"
         ],
         "BACKGROUND_TERTIARY": [
-            "#000000"
+            false, false, "#000000"
         ],
         "BACKGROUND_ACCENT": [
-            "#1a1a1a"
+            false, false, "#1a1a1a"
         ],
         "BACKGROUND_FLOATING": [
-            "#000000"
+            false, false, "#000000"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#000000"
+            false, false, "#000000"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#000000"
+            false, false, "#000000"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#000000"
+            false, false, "#000000"
         ],
         "BACKGROUND_MENTIONED": [
-            "#a8082033"
+            false, false, "#a8082033"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#a8082033"
+            false, false, "#a8082033"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#1a1a1a"
+            false, false, "#1a1a1a"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#000000"
+            false, false, "#000000"
         ],
         "SPOILER_HIDDEN_BACKGROUND": [
-            "#1a1a1a"
+            false, false, "#1a1a1a"
         ],
         "SPOILER_REVEALED_BACKGROUND": [
-            "transparent"
+            false, false, "transparent"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-            "#999999"
+            false, false, "#999999"
         ],
         "CHAT_BACKGROUND": [
-            "#000000"
+            false, false, "#000000"
         ],
         "CHANNELS_DEFAULT": [
-            "#999999"
+            false, false, "#999999"
         ],
         "TEXT_LINK": [
-            "#a80820"
+            false, false, "#a80820"
         ],
         "CHANNEL_ICON": [
-            "#ffffff"
+            false, false, "#ffffff"
         ]
     },
     "rawColors": {
